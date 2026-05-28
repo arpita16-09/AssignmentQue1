@@ -1,3 +1,4 @@
 Adding some text 
 inside this file
 modifying this text file
+Updated content in b2_file
