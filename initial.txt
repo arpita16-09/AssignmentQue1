@@ -5,3 +5,4 @@ Updated from branch b1
 modifying this text file
 adding another line
 Line added for challenge task.
+New conflicting line after stash
